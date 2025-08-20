@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286417817958",
+    "project_id": "bl-oo-d",
+    "storage_bucket": "bl-oo-d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286417817958:android:a17c1c959d1df9169db8a7",
+        "android_client_info": {
+          "package_name": "com.example.padna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2qTQe1HQdIrt1S6VaSWzGaYTWe0MuTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
